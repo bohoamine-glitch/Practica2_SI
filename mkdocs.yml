@@ -1,7 +1,8 @@
-site_name: Test
+site_name: Practica 2 - Redes Windows
 
 nav:
   - Inicio: index.md
+  - Practica 2: p3.md
 
 theme:
   name: material
