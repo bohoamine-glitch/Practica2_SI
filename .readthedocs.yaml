@@ -7,3 +7,9 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
+
+python:
+  install:
+    - method: pip
+      packages:
+        - mkdocs-material
